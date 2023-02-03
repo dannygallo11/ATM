@@ -193,7 +193,7 @@ namespace ATM_Machine
                 else { optionChoice = 0; }
 
             }
-            // added comment
+            // added this new comment
             while (optionChoice != 4);
             Console.WriteLine("Thank you and have a nice day!");
 
